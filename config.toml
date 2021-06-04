@@ -114,9 +114,9 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
-twitter = "#"
+#yelp = "#"
+#facebook = "#"
+#twitter = "#"
 instagram = "#"
 email = "#"
-linkedin = "#"
+#linkedin = "#"
