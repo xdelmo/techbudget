@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = ""
-title = "Techbudget"
+title = "TechBudget"
 theme = "twentytwenty"
 languageName = "En"
 languageCode = "en-us"
