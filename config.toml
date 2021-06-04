@@ -53,10 +53,10 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
+#[[menu.main]]
+#name = "Sample Page"
+#URL = "sample-page"
+#weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -78,16 +78,16 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Il Metodo Giusto Per Approcciarsi Alla Tecnologia"
 image = "images/2020-landscape-1-2.png"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Basta pagare il sovrapprezzo sulla tecnologia. <br>Non ne abbiamo veramente il bisogno."
 
 # call to action
 [params.call_to_action]
-enable = true
+enable = false
 title = "Contact us for more information."
 content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
 button_label = "Contact Us"
@@ -95,7 +95,7 @@ button_url = "contact"
 
 # gallery
 [params.gallery]
-enable = true
+enable = false
 
 [[params.gallery.gallery_item ]]
 image = "images/2020-square-2.png"
@@ -107,16 +107,16 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
+content = "Appassionato di informatica da sempre, ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
+address = "Roma, Italia"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
 ############################# social site ########################
 [params.social]
-#yelp = "#"
-#facebook = "#"
-#twitter = "#"
+# yelp = "#"
+# facebook = "#"
+# twitter = "#"
 instagram = "#"
 email = "#"
-#linkedin = "#"
+# linkedin = "#"
