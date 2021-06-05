@@ -107,7 +107,7 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About This Site"
-content = "Appassionato di informatica da sempre, ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
+content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
 address = "Roma, Italia"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
