@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://techbudget.it/"
 title = "TechBudget"
 theme = "twentytwenty"
 languageName = "En"

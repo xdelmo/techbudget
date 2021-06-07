@@ -20,7 +20,7 @@ E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi m
 <br>
 
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
   <p>
     <label>Il tuo nome: <input type="text" name="name" /></label>   
   </p>
@@ -31,6 +31,7 @@ E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi m
   <p>
     <label>Messaggio: <textarea name="message"></textarea></label>
   </p>
+  <div data-netlify-recaptcha="true"></div>
   <p>
     <button style=width:100% type="submit">Invia</button>
   </p>
