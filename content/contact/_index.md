@@ -17,7 +17,6 @@ Oppure puoi contattarmi sui vari social che trovi linkati nel menù.
 <p>
 E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi magari non è ancora navigato nel mare della tecnologia.
 </p>
-<br>
 
 
 <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
@@ -32,7 +31,7 @@ E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi m
     <label>Messaggio: <textarea name="message"></textarea></label>
   </p>
   <!-- Captcha da centrare -->
-  <div style="text-align:center;" data-netlify-recaptcha="true"></div>
+  <div data-netlify-recaptcha="true"></div>
   <br>
   <p>
     <button style=width:100% type="submit">Invia</button>
