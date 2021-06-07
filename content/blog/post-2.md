@@ -1,12 +1,12 @@
 ---
-title: "Bella lì"
+title: "Theatre of Operations"
 date: 2020-03-14T15:40:24+06:00
-# image : "images/2020-three-quarters-1.png"
+image : "images/2020-three-quarters-3.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["Working days"]
-tags: ["work", "day"]
+categories: ["operations"]
+tage: ["tags"]
 # meta description
 description: "This is meta description"
 # save as draft

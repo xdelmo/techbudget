@@ -1,7 +1,7 @@
 ---
-title: "Bella lì"
+title: "Works and Days"
 date: 2020-03-14T15:40:24+06:00
-# image : "images/2020-three-quarters-1.png"
+image : "images/2020-three-quarters-1.png"
 # author
 author : ["Admin"]
 # categories

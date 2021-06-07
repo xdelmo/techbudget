@@ -79,11 +79,11 @@ expire_days = 2
 # banner
 [params.banner]
 heading = "Il Metodo Giusto Per Approcciarsi Alla Tecnologia"
-image = "images/2020-landscape-1-2.png"
+image = "https://pixabay.com/get/g17077629b377f4ecaa28536efb1f1957a7efefb2d3be02f99fe4d1907a097f7674dd0d2842aa275ea764ae012306a1ea_1920.jpg"
 
 # blog
 [params.blog]
-heading = "Basta pagare il sovrapprezzo sulla tecnologia. <br>Non ne abbiamo veramente il bisogno."
+heading = "Basta pagare il sovrapprezzo sulla tecnologia. <br>"
 
 # call to action
 [params.call_to_action]

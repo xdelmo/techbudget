@@ -7,30 +7,30 @@ description: "This is meta description"
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+<p>
+Usa il modulo contatti a seguire per scrivermi di un'idea, di un suggerimento, di una proposta di collaborazione.
+</p>
+<p>
+Oppure puoi contattarmi sui vari social che trovi linkati nel menù.
+</p>
+
+<p>
+E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi magari non è ancora navigato nel mare della tecnologia.
+</p>
+
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Il tuo nome: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-
- 
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
+    <label>Il tuo indirizzo e-mail: <input type="email" name="email" /></label>
   </p>
 
   <p>
- 
-  
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Messaggio: <textarea name="message"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button style=width:100% type="submit">Invia</button>
   </p>
 </form>
