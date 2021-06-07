@@ -79,7 +79,7 @@ expire_days = 2
 # banner
 [params.banner]
 heading = "Il Metodo Giusto Per Approcciarsi Alla Tecnologia"
-image = "https://pixabay.com/get/g17077629b377f4ecaa28536efb1f1957a7efefb2d3be02f99fe4d1907a097f7674dd0d2842aa275ea764ae012306a1ea_1920.jpg"
+image = "https://res.cloudinary.com/techbudget-it/image/upload/v1623102322/welcome.jpg"
 
 # blog
 [params.blog]
@@ -118,5 +118,5 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 # facebook = "#"
 # twitter = "#"
 instagram = "#"
-email = "#"
+email = "techbudget@techie.com"
 # linkedin = "#"

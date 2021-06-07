@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2021-06-03T17:57:15+02:00
-image: https://pixabay.com/get/g7aa44c8047c6284c6bf486240557689ac45d41932da97f94ec43ae0085688da58a6e914b59166381569a830df08c2ecc_1920.jpg
+image: https://res.cloudinary.com/techbudget-it/image/upload/v1623102319/hello-world.jpg
 # author
 author : ["Admin"]
 # categories
