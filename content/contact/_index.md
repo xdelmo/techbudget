@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-bg_image: "images/2020-landscape-2.png"
+bg_image: "https://pixabay.com/get/g9ba704040e5c11e74dc944c2654ec15caf83477853f6363b7921b4ad64bc15e695c55d8b671e075a27cc09d25a1cd31f_1920.jpg"
 # meta description
 description: "This is meta description"
 # save as draft
@@ -17,6 +17,7 @@ Oppure puoi contattarmi sui vari social che trovi linkati nel menù.
 <p>
 E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi magari non è ancora navigato nel mare della tecnologia.
 </p>
+<br>
 
 
 <form name="contact" method="POST" data-netlify="true">
