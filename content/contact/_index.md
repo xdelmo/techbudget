@@ -31,7 +31,9 @@ E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi m
   <p>
     <label>Messaggio: <textarea name="message"></textarea></label>
   </p>
-  <div data-netlify-recaptcha="true"></div>
+  <!-- Captcha da centrare -->
+  <div style="text-align:center;" data-netlify-recaptcha="true"></div>
+  <br>
   <p>
     <button style=width:100% type="submit">Invia</button>
   </p>
