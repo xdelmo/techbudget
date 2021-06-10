@@ -9,11 +9,10 @@ author:  ["Delmo"]
 categories:  ["Guida all'acquisto"]
 tags:  ["smartphone, android, iphone, guida"]
 # meta description
-description:  "https://res.cloudinary.com/techbudget-it/image/upload/v1623249321/Thumbnails/telephone-586268_1920_me7b9y.jpg In questi anni di passione verso l’informatica e tutto ciò che possiede diodi, resistori e condensatori ne ho cambiati di smartphone.
-
+description:  "In questi anni di passione verso l’informatica e tutto ciò che possiede diodi, resistori e condensatori ne ho cambiati di smartphone.
 Ricordo come fosse ieri il mio primo cellulare: uno di quei vecchi Panasonic pesanti quanto un fardello di acqua.
-
-Ma oggi non siamo qui per fare storytelling, ma piuttosto per conoscere quali sono gli amici tascabili più TechBudget-friendly."
+Ma oggi non siamo qui per fare storytelling, ma piuttosto per conoscere quali sono gli amici tascabili più TechBudget-friendly.
+https://res.cloudinary.com/techbudget-it/image/upload/v1623249321/Thumbnails/telephone-586268_1920_me7b9y.jpg I"
 # save as draft
 draft:  false
 
