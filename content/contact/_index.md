@@ -18,17 +18,17 @@ Oppure puoi contattarmi sui vari social che trovi linkati nel menù.
 E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi magari non è ancora navigato nel mare della tecnologia.
 </p>
 
-
 <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
-  <p>
-    <label>Il tuo nome: <input type="text" name="name" /></label>   
+<!-- Aggiunto lo style alle etichette del form per avere un font simil coerente-->
+  <p style = "font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, sans-serif;">
+    <label><b>Il tuo nome:</b> <input type="text" name="name" /></label>   
   </p>
-  <p>
-    <label>Il tuo indirizzo e-mail: <input type="email" name="email" /></label>
+  <p style = "font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, sans-serif;">
+    <label><b>Il tuo indirizzo e-mail:</b> <input type="email" name="email" /></label>
   </p>
 
-  <p>
-    <label>Messaggio: <textarea name="message"></textarea></label>
+  <p style = "font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, sans-serif;">
+    <label><b>Messaggio:</b> <textarea name="message"></textarea></label>
   </p>
   <!-- Captcha da centrare -->
   <div data-netlify-recaptcha="true"></div>

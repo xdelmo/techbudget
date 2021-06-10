@@ -3,11 +3,10 @@ title: "Hello World"
 date: 2021-06-03T17:57:15+02:00
 image: https://res.cloudinary.com/techbudget-it/image/upload/v1623102319/hello-world.jpg
 # author
-author : ["Admin"]
+author : ["Delmo"]
 # categories
 categories: ["Coding"]
-
-#TAG NON FUNZIONANO
+# tags
 tags: ["first", "coding"]
 # meta description
 description: "This is meta description"
