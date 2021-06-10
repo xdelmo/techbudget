@@ -53,9 +53,10 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
+#Le pagine inserite per il supporto non funzionano ancora
 #[[menu.main]]
-#name = "Sample Page"
-#URL = "sample-page"
+#name = "Support"
+#URL = "support"
 #weight = 5
 
 # only desktop menu
@@ -68,7 +69,7 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
+description = "Stanco dei costosissimi consigli tecnologici, ho deciso di aiutare chi cerca il miglior prodotto al minor prezzo."
 author = "Themefisher"
 
 # cookies
@@ -83,7 +84,7 @@ image = "https://res.cloudinary.com/techbudget-it/image/upload/v1623102322/welco
 
 # blog
 [params.blog]
-heading = "Basta pagare prodotti sovrapprezzati. <br>"
+heading = "Basta pagare prodotti sovrapprezzati."
 
 # call to action
 [params.call_to_action]
@@ -110,13 +111,13 @@ title = "About This Site"
 content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
 address = "Roma, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
 
 ############################# social site ########################
 [params.social]
 # yelp = "#"
 # facebook = "#"
 # twitter = "#"
-#instagram = "instagram.com/techbudget.it"
+instagram = "instagram.com/techbudget.it"
 email = "techbudget@techie.com"
 # linkedin = "#"
