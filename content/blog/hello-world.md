@@ -9,7 +9,7 @@ categories: ["Coding"]
 # tags
 tags: ["first", "coding"]
 # meta description
-description: "This is meta description"
+description: "Primo post. Interessante, non è vero?"
 # save as non draft
 draft: false
 ---
