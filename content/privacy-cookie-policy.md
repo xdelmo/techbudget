@@ -1,7 +1,7 @@
 ---
 title: "Privacy Cookie Policy"
 date: 2021-06-09T17:23:04+02:00
-draft: true
+draft: false
 ---
 
 ### Informativa generale sui cookie
