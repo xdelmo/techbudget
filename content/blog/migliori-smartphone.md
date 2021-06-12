@@ -12,7 +12,7 @@ tags:  ["smartphone, android, iphone, guida"]
 description:  "In questi anni di passione verso l’informatica e tutto ciò che possiede diodi, resistori e condensatori ne ho cambiati di smartphone.
 Ricordo come fosse ieri il mio primo cellulare: uno di quei vecchi Panasonic pesanti quanto un fardello di acqua.
 Ma oggi non siamo qui per fare storytelling, ma piuttosto per conoscere quali sono gli amici tascabili più TechBudget-friendly.
-https://res.cloudinary.com/techbudget-it/image/upload/v1623249321/Thumbnails/telephone-586268_1920_me7b9y.jpg I"
+https://res.cloudinary.com/techbudget-it/image/upload/v1623249321/Thumbnails/telephone-586268_1920_me7b9y.jpg"
 # save as draft
 draft:  false
 
@@ -53,6 +53,14 @@ Il Pixel 4 XL è considerato da molti l'ultimo vero **top di gamma** dell'aziend
 
 ___
 
+### Samsung Galaxy S20 FE 5G
+
+[![Samsung Galaxy S20 FE 5G](https://www.tomshw.it/images/images/2020/10/immagini-prodotto-640x640-121750.768x432.jpg)](https://amzn.to/2RNAbIp)
+
+Con questa versione FE Samsung ha fatto centro: **schermo super AMOLED a 120Hz, batteria da 4500-mAh, Qualcomm Snapdragon 855** e prezzo di listino inferiore al modello non FE. Certo, la frequenza e la quantità degli [aggiornamenti non sarà ai livelli dei Pixel](https://www.aosmark.com/) ma è l'unico smartphone che penso valga la pena scegliere se non si vuole ricadere su Apple o Google.
+
+- **[Samsung Galaxy S20 FE 5G](https://amzn.to/2RNAbIp)**
+
 ### Pixel 4a 5G
 
 [![Pixel 4a 5G](https://images-na.ssl-images-amazon.com/images/I/71Ns3Z6KFcL._AC_SY450_.jpg)](https://amzn.to/3g5zYcN)
@@ -75,3 +83,9 @@ Se non siete ancora abbonati potete provarlo **GRATIS per 30 giorni** tramite qu
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 
 Fatemi sapere sotto nei commenti (quando riuscirò ad implementarli) la vostra opinione a riguardo!
+
+___
+
+**Aggiornamento 12/06/2021**
+Sono riuscito ad inserire il form Disqus per commentare!
+Che störia.
