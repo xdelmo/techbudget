@@ -82,7 +82,7 @@ Se non siete ancora abbonati potete provarlo **GRATIS per 30 giorni** tramite qu
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 
-Fatemi sapere sotto nei commenti (quando riuscirò ad implementarli) la vostra opinione a riguardo!
+*Fatemi sapere sotto nei commenti (quando riuscirò ad implementarli) la vostra opinione a riguardo!*
 
 ___
 
