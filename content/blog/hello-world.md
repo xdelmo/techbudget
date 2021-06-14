@@ -11,7 +11,7 @@ tags: ["first", "coding"]
 # meta description
 description: "Primo post. Interessante, non è vero?"
 # save as non draft
-draft: false
+draft: true
 ---
 
 <blockquote class="wp-block-quote">
