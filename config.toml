@@ -2,13 +2,15 @@
 baseURL = "https://techbudget.it/"
 title = "TechBudget"
 theme = "twentytwenty"
-languageName = "En"
-languageCode = "en-us"
+# lingua cambiata da languageName = "En" languageCode = "en-us" in IT per reinderizzamento sui motori
+# di ricerca ma non se cambi qualcosa o rompa il sito
+languageName = "It"
+languageCode = "it-IT"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
-# disqus short name NON SO SE FUNZIONA SOLO COSì
+# disqus short name
 disqusShortname = "techbudget-it" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
@@ -70,7 +72,7 @@ weight = 1
 [params]
 # Meta data
 description = "Stanco dei costosissimi consigli tecnologici, ho deciso di aiutare chi cerca il miglior prodotto al minor prezzo."
-author = "Themefisher"
+author = "Delmo"
 
 # cookies
 [params.cookies]
@@ -107,7 +109,7 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "About This Site"
+title = "About Us"
 content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
 address = "Roma, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
@@ -118,6 +120,6 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 # yelp = "#"
 # facebook = "#"
 # twitter = "#"
-instagram = "instagram.com/techbudget.it"
+# instagram = "instagram.com/techbudget.it"
 email = "techbudget@techie.com"
 # linkedin = "#"
