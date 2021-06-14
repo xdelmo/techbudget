@@ -10,7 +10,7 @@ tags:  ["console, nintendo, switch, videogiochi, metacritic, howlongtobeat, tbi"
 # meta description
 description:  "Tutti noi abbiamo avuto un Gameboy durante la scoperta e crescita videoludica e la Switch è la giusta evoluzione ma sapete come scegliere un titolo da giocare? Ve lo spiego io!"
 # save as draft
-draft: true
+draft: false
 ---
 
 ##### Tutti noi abbiamo avuto un Gameboy (o un DS) durante la scoperta e la crescita videoludica
