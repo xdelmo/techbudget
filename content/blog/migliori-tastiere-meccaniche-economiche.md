@@ -10,7 +10,7 @@ tags: ["tastiere, switch, economico"]
 # meta description
 description: "Se pensavate che il processore o la scheda video fossero gli hardware più importanti in una pc build, vi sbagliate: è la tastiera."
 # save as draft
-draft: true
+draft: false
 ---
 
 
