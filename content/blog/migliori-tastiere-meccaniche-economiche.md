@@ -26,9 +26,9 @@ Considerando il prezzo non abbordabile per tutti, è necessario trovare la migli
 
 |           Premio          |                       Tastiera                       |                    Caratteristica                   |
 |:-------------------------:|:----------------------------------------------------:|:---------------------------------------------------:|
-| Migliore in assoluto      | [HyperX Alloy Origins Core](https://amzn.to/35udsEl) | Switch lineari super lisci                          |
-| Migliore sotto i 100 Euro | [Durgod Taurus K320](https://amzn.to/2U9uiWU)        | Stabilizzatori migliori della categoria             |
-| Miglior tastiera 75%      | [Keychron K2](https://amzn.to/3gmNPf8)               | Connettività wireless e compatibile anche con MacOS |
+| Migliore in assoluto      | [HyperX Alloy Origins Core](https://amzn.to/35udsEl) | *Switch lineari super lisci*                          |
+| Migliore sotto i 100 Euro | [Durgod Taurus K320](https://amzn.to/2U9uiWU)        | *Stabilizzatori migliori della categoria*             |
+| Miglior tastiera 75%      | [Keychron K2](https://amzn.to/3gmNPf8)               | *Connettività wireless e compatibile anche con MacOS* |
 
 ### 3. Keychron K2
 
@@ -92,7 +92,7 @@ ___
 
 Queste sono per me le migliori tastiere meccaniche se si vuole cominciare ad avere il piacere di digitare al computer o solamente fare i fighi con i vostri amici nelle sessioni gaming!
 
-Vi assicuro che provata una tastiera meccanicha nonn tornerete più indietro, parola di TechBudget.
+Vi assicuro che provata una tastiera meccanicha non tornerete più indietro, parola di TechBudget.
 
 Inoltre vi ricordo che i prossimi **20 e 21 Giugno si terrà il Prime Day**, sconti annuali su tutto il catalogo Amazon **esclusivamente per i clienti Prime**!
 Se non siete ancora abbonati potete provarlo **GRATIS per 30 giorni** tramite questo link e aiutarmi nel mantenere up il sito:
