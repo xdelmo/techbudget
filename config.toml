@@ -111,7 +111,7 @@ image = "images/2020-square-1.png"
 [params.footer]
 title = "About Us"
 content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
-address = "Roma, Italia"
+address = "Latina, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
 
