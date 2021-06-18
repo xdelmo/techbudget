@@ -90,10 +90,10 @@ heading = "Basta pagare prodotti sovrapprezzati."
 
 # call to action
 [params.call_to_action]
-enable = false
-title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
+enable = true
+title = "Rimani in contatto con me"
+content = "*Hai un dubbio? Oppure vuoi scrivermi di un'idea, di un suggerimento o di una proposta di collaborazione?*"
+button_label = "Scrivimi qui"
 button_url = "contact"
 
 # gallery
@@ -101,7 +101,7 @@ button_url = "contact"
 enable = false
 
 [[params.gallery.gallery_item ]]
-image = "images/2020-square-2.png"
+image = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
 
 [[params.gallery.gallery_item ]]
 image = "images/2020-square-1.png"
@@ -110,7 +110,7 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About Us"
-content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni."
+content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni consigliandovi i migliori prodotti per qualità/prezzo."
 address = "Latina, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
