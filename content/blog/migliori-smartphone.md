@@ -18,7 +18,6 @@ draft:  false
 
 ---
 
-
 ###### ---Beh, come iniziare col botto se non con gli ormai "migliori amici dell'uomo"?
 
 In questi anni di passione verso l'informatica e tutto ciò che possiede diodi, resistori e condensatori ne ho **cambiati di smartphone**.

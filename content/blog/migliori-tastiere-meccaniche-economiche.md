@@ -13,8 +13,7 @@ description: "Se pensavate che il processore o la scheda video fossero gli hardw
 draft: false
 ---
 
-
-##### Solo ultimamente mi sono reso conto di quanto sia importante una buona tastiera per aumentare la produttività e la velocità di scrittura
+##### ---Solo ultimamente mi sono reso conto di quanto sia importante una buona tastiera per aumentare la produttività e la velocità di scrittura.
 
 Da un paio di anni sono passato da una semplice tastiera a membrana di quelle comprese nelle build economiche di Acer ad una **meccanica con switch Cherry MX Red** e la **qualità di scrittura è aumentata** a dismisura.
 

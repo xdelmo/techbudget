@@ -13,7 +13,7 @@ description:  "Tutti noi abbiamo avuto un Gameboy durante la scoperta e crescita
 draft: false
 ---
 
-##### Tutti noi abbiamo avuto un Gameboy (o un DS) durante la scoperta e la crescita videoludica
+##### ---Tutti noi abbiamo avuto un Gameboy (o un DS) durante la scoperta e la crescita videoludica.
 
 E la **Switch è la giusta evoluzione** delle console portatili di **Nintendo**, ma la rivoluzione (già provata con scarso successo con Wii-U) è stata la natura ibrida che le consente anche di essere inserita nella dock e giocare su uno schermo decisamente più grande.
 
