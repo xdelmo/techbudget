@@ -41,13 +41,13 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "Blog"
+URL = "blog"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "About"
+URL = "about"
 weight = 3
 
 [[menu.main]]
@@ -55,11 +55,11 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-#Le pagine inserite per il supporto non funzionano ancora
-#[[menu.main]]
-#name = "Support"
-#URL = "support"
-#weight = 5
+
+[[menu.main]]
+name = "♥"
+URL = "supporter"
+weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -113,7 +113,7 @@ title = "About Us"
 content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni consigliandovi i migliori prodotti per qualità/prezzo."
 address = "Latina, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
+copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
 
 ############################# social site ########################
 [params.social]
