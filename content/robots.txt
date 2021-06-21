@@ -1,2 +1,3 @@
+Sitemap: https://www.techbudget.it/sitemap.xml
 User-agent: *
 Disallow: /secret.html
