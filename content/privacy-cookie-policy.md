@@ -1,16 +1,17 @@
 ---
 title: "Privacy Cookie Policy"
 date: 2021-06-09T17:23:04+02:00
+author: ["Delmo"]
 # tags
-tags:  ["cookies"]
+tags: ["cookies, privacy"]
 # meta description
-description:  "Informativa generale sui cookie"
+description: "Informativa generale sui cookie"
 draft: false
 ---
 
 ### Informativa generale sui cookie
 
-Questo sito web utilizza i cookie, ossia dei brevi file di testo che vengono salvati sul dispositivo dei visitatori e salvati in cartelle specifiche a seconda del tipo di browser utilizzato (sia su mobile che su desktop). I cooki conservano traccia delle azioni compiute da chi ha visitato il sito come ad esepio il fatto di aver chiuso una finestra di popup e consentono di evitare ad esempio che la stessa finestra sia nuovamente mostrata. In questo senso i cookies riescono a rendere migliore l'esperienza di navigazione. Chi non desidera ricevere i cookies può anche decidere di disabilitarli una volta per tutte. Ogni browser ha un suo modo per limitare o disabilitare i cookie come meglio specificato più avanti.
+Questo sito web utilizza i cookie, ossia dei brevi file di testo che vengono salvati sul dispositivo dei visitatori e salvati in cartelle specifiche a seconda del tipo di browser utilizzato (sia su mobile che su desktop). I cookie conservano traccia delle azioni compiute da chi ha visitato il sito come ad esepio il fatto di aver chiuso una finestra di popup e consentono di evitare ad esempio che la stessa finestra sia nuovamente mostrata. In questo senso i cookies riescono a rendere migliore l'esperienza di navigazione. Chi non desidera ricevere i cookies può anche decidere di disabilitarli una volta per tutte. Ogni browser ha un suo modo per limitare o disabilitare i cookie come meglio specificato più avanti.
 
 #### Informativa estesa per cookie tecnici e di profilazione
 
@@ -28,9 +29,9 @@ L'utente può scegliere di non abilitare l'esecuzione dei cookies e, dunque, ann
 
 Ecco alcune istruzioni per la disabilitazione dei cookies relative ai browser più utilizzati:
 
-- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=it)
-- [Firefox](https://support.mozilla.org/it/kb/Gestione%20dei%20cookie)
-- [Internet Explorer](http://windows.microsoft.com/it-it/windows7/how-to-manage-cookies-in-internet-explorer-9)
-- [Safari](http://support.apple.com/kb/HT1677?viewlocale=it_IT)
+- **[Google Chrome](https://support.google.com/chrome/answer/95647?hl=it)**
+- **[Firefox](https://support.mozilla.org/it/kb/Gestione%20dei%20cookie)**
+- **[Internet Explorer](http://windows.microsoft.com/it-it/windows7/how-to-manage-cookies-in-internet-explorer-9)**
+- **[Safari](http://support.apple.com/kb/HT1677?viewlocale=it_IT)**
 
 L'assenza di disabilitazione dei cookies per questo sito è da intendersi come assenso all'utilizzo dei cookies stessi, e dei dati da questi raccolti, come specificato nei paragrafi relativi ai cookies tecnici e di profilazione erogati da parti terze.
