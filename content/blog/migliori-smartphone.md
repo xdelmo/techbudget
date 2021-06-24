@@ -76,8 +76,7 @@ ___
 
 Questi sono per me gli smartphone che ha più **senso comprare** per avere un prodotto di qualità ma con qualche compromesso che non inficia in nessun modo l'uso quotidiano.
 
-Inoltre vi ricordo che i prossimi **20 e 21 Giugno si terrà il Prime Day**, sconti annuali su tutto il catalogo Amazon **esclusivamente per i clienti Prime**!
-Se non siete ancora abbonati potete provarlo **GRATIS per 30 giorni** tramite questo link:
+Se non siete ancora abbonati ad Amazon Prime potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 

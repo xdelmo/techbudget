@@ -184,8 +184,7 @@ ___
 
 Questi sono per me i giochi per Nintendo Switch che ha più **senso comprare** per avere un buon rapporto longevità/prezzo.
 
-Inoltre vi ricordo che i prossimi **20 e 21 Giugno si terrà il Prime Day**, sconti annuali su tutto il catalogo Amazon **esclusivamente per i clienti Prime**!
-Se non siete ancora abbonati potete provarlo **GRATIS per 30 giorni** tramite questo link e aiutarmi nel mantenere up il sito:
+Se non siete ancora abbonati ad Amazon Prime potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 

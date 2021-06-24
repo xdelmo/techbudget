@@ -13,7 +13,7 @@ description: "Oramai la qualità sonora delle cuffie Bluetooth ha raggiunto una 
 draft: false
 ---
 
-##### Oramai la qualità sonora delle cuffie Bluetooth ha raggiunto una maturità tale da preferirle a quelle cablate. Ma quale True Wireless vale la pena veramente comprare?
+##### ---Oramai la qualità sonora delle cuffie Bluetooth ha raggiunto una maturità tale da preferirle a quelle cablate. Ma quale True Wireless vale la pena veramente comprare?
 
 **Gli auricolari true wireless** detti anche TWS sono auricolari completamente senza fili. È stata **Apple**, nel 2016, **a lanciare sul mercato questa categoria di prodotti** con le sue AirPods (*SPOILER: che non saranno presenti in questa classifica per ovvie ragioni*).
 Da quel momento tutte le aziende si sono impegnate per creare una propria linea di TWS.
@@ -87,8 +87,7 @@ ___
 
 Secondo me sono queste le **migliori True Wireless da scegliere** se se si vuole abbandonare definitivamente il mondo del cablato.
 
-Inoltre vi ricordo che i prossimi **20 e 21 Giugno si terrà il Prime Day**, sconti annuali su tutto il catalogo Amazon **esclusivamente per i clienti Prime**!
-Se non siete ancora abbonati potete provarlo **GRATIS per 30 giorni** tramite questo link e aiutarmi nel mantenere up il sito:
+Se non siete ancora abbonati ad Amazon Prime potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 
