@@ -106,10 +106,10 @@ Il Kingstong A400 è un SSD super economico, un entry level ma con delle buone p
 
 240Gb non sono molti ma è sicuramente più performante di un HDD che risulterebbe il primo collo di bottiglia della build.
 
-Dimensioni/Interfaccia: 2.5, SATA III
-Controller: Phison PS3111-S11
-NAND: Toshiba 15nm TLC
-Capacità: 240GB
+- Dimensioni/Interfaccia: 2.5, SATA III
+- Controller: Phison PS3111-S11
+- NAND: Toshiba 15nm TLC
+- Capacità: 240GB
 
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3gYvpQV">Compra qui</a></div>
 
