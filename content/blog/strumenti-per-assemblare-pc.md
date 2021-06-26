@@ -1,5 +1,5 @@
 ---
-title: "Strumenti per Assemblare Un PC"
+title: "Gli Strumenti Migliori per Assemblare Un PC"
 date: 2021-06-25T11:23:30+02:00
 image: "https://images.unsplash.com/photo-1541143273445-ba930ada04d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1955&q=80"
 # author
