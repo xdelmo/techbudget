@@ -32,3 +32,5 @@ E ricordati che se hai ulteriori dubbi sono sempre felice di poter aiutare chi m
     <button style=width:100% type="submit">Invia</button>
   </p>
 </form>
+
+<!--Aggiungere paragrafo copyright contenuti da eliminare nel caso siano di proprietà privata-->
