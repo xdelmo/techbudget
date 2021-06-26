@@ -60,7 +60,7 @@ Il 3000G è un rebrand del 240G ma ad un prezzo minore, attualmente è una delle
 - TDP: 35W
 - Dissipatore Stock Incluso: Sì
 
-[![Compra qui](https://res.cloudinary.com/techbudget-it/image/upload/c_scale,q_100,r_30,w_100/v1624483031/Banner/BannerCompraQui.png)](https://amzn.to/2UxVFdt)
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/2UxVFdt">Compra qui</a></div>
 
 ### Dissipatore CPU: AMD Near-Silent
 
@@ -84,7 +84,7 @@ Una scheda madre economica per chi vuole assemblare una build con una APU Ryzen.
 - PCIe: x16, PCIe 3.0
 - Porte: M.2 (PCIe), USB 3.1
 
-[![Compra qui](https://res.cloudinary.com/techbudget-it/image/upload/c_scale,q_100,r_30,w_100/v1624483031/Banner/BannerCompraQui.png)](https://amzn.to/2TZ2dRQ)
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/2TZ2dRQ">Compra qui</a></div>
 
 ### RAM: G.SKILL Ripjaws V 8GB (2 x 4GB) 3200MHz
 
@@ -96,7 +96,7 @@ Una scheda madre economica per chi vuole assemblare una build con una APU Ryzen.
 - Capacità RAM: 8GB
 - Tipo RAM: DDR4
 
-[![Compra qui](https://res.cloudinary.com/techbudget-it/image/upload/c_scale,q_100,r_30,w_100/v1624483031/Banner/BannerCompraQui.png)](https://amzn.to/2T3pbHo)
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/2T3pbHo">Compra qui</a></div>
 
 ### SSD: Kingston A400 240GB
 
@@ -111,7 +111,7 @@ Controller: Phison PS3111-S11
 NAND: Toshiba 15nm TLC
 Capacità: 240GB
 
-[![Compra qui](https://res.cloudinary.com/techbudget-it/image/upload/c_scale,q_100,r_30,w_100/v1624483031/Banner/BannerCompraQui.png)](https://amzn.to/3gYvpQV)
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3gYvpQV">Compra qui</a></div>
 
 ### Alimentatore: Corsair VS450
 
@@ -126,7 +126,7 @@ Se c'è un componente su cui NON poter risparmiare è l'alimentatore. Gli econom
 - Modulare: Non Modulare
 - PCIe: 2 x 6+2-Pin
 
-[![Compra qui](https://res.cloudinary.com/techbudget-it/image/upload/c_scale,q_100,r_30,w_100/v1624483031/Banner/BannerCompraQui.png)](https://amzn.to/3jkXFjJ)
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3jkXFjJ">Compra qui</a></div>
 
 ### Case: Fractal Design Focus G
 
@@ -143,7 +143,7 @@ Una delle opzione migliori tra i case economici: design semplice e pulito con du
 - Filtri Polvere: Davanti, sopra, sotto
 - Colori: Nero, bianco, blu, rosso, grigio
 
-[![Compra qui](https://res.cloudinary.com/techbudget-it/image/upload/c_scale,q_100,r_30,w_100/v1624483031/Banner/BannerCompraQui.png)](https://amzn.to/2T3azI5)
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/2T3azI5">Compra qui</a></div>
 
 ___
 
