@@ -71,7 +71,7 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "Stanco dei costosissimi consigli tecnologici, ho deciso di aiutare chi cerca il miglior prodotto al minor prezzo."
+description = "TechBudget.it | Stanco dei costosissimi consigli tecnologici, ho deciso di aiutare chi cerca il miglior prodotto al minor prezzo."
 author = "Delmo"
 
 # cookies
@@ -92,9 +92,9 @@ heading = "Basta pagare prodotti sovrapprezzati."
 [params.call_to_action]
 enable = true
 title = "Rimani in contatto con me"
-content = "*Hai un dubbio? Oppure vuoi scrivermi di un'idea, di un suggerimento o di una proposta di collaborazione?*"
-button_label = "Scrivimi qui"
-button_url = "contact"
+content = "*Vuoi essere aggiornato sul dietro le quinte del progetto? <br>Vuoi conoscere qualcosa in più di me?*"
+button_label = "Seguimi sul Canale Telegram"
+button_url = "https://t.me/TechBudget_it"
 
 # gallery
 [params.gallery]
@@ -109,7 +109,7 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "About Us"
+title = "About Me"
 content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni consigliandovi i migliori prodotti per qualità/prezzo."
 address = "Latina, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
