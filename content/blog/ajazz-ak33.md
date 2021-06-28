@@ -1,12 +1,12 @@
 ---
-title: "Ajazz AK33: la miglior tastiera supereconomica?"
+title: "Recensione Ajazz AK33: la miglior tastiera super economica?"
 date: 2021-06-27T11:04:28+02:00
 image: "https://res.cloudinary.com/techbudget-it/image/upload/v1624879161/Ajazz%20AK33/Ajazz_AK33.jpg"
 # author
 author: ["Delmo"]
 # categories
 categories: ["Recensione"]
-tags: ["pc, tastiera meccanica, ajazz, economico, ak33, switch, zorro black, cherry mx, gaming"]
+tags: ["recensione, review, tastiera meccanica, ajazz, economico, ak33, switch, zorro black, cherry mx, gaming"]
 # meta description
 description: "Scrivere ed utilizzare una tastiera meccanica è un'esperienza che tutti almeno una volta nella vita dovrebbero67 provare. Lo scoglio più grande è solitamente il prezzo ma la Ajazz ha abbattuto tutte le barriere con la AK33"
 # save as draft
