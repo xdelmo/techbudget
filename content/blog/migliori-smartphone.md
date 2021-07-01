@@ -6,7 +6,7 @@ image:  "https://res.cloudinary.com/techbudget-it/image/upload/v1623249321/Thumb
 # author
 author:  ["Delmo"]
 # categories
-categories:  ["Guida all'acquisto"]
+categories:  ["Guide all'acquisto"]
 tags:  ["smartphone" , "android" , "iphone" , "guida"]
 # meta description
 description:  "In questi anni di passione verso l’informatica e tutto ciò che possiede diodi, resistori e condensatori ne ho cambiati di smartphone.

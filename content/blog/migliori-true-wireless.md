@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?ixlib=rb-1.
 # author
 author: ["Delmo"]
 # categories
-categories: ["Guida all'acquisto"]
+categories: ["Guide all'acquisto"]
 tags: ["cuffie" , "auricolari" , "truewireless" , "tws" , "economico" , "samsung" , "anker" , "qcy"]
 # meta description
 description: "Oramai la qualità sonora delle cuffie Bluetooth ha raggiunto una maturità tale da preferirle a quelle cablate. Ma quale True Wireless vale la pena veramente comprare?"

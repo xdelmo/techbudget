@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1595225476474-87563907a212?ixid=MnwxMj
 # author
 author: ["Delmo"]
 # categories
-categories: ["Guida all'acquisto"]
+categories: ["Guide all'acquisto"]
 tags: ["tastiere" , "switch" , "economico"]
 # meta description
 description: "Se pensavate che il processore o la scheda video fossero gli hardware più importanti in una pc build, vi sbagliate: è la tastiera. Rigorosamente meccanica."

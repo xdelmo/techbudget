@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1541143273445-ba930ada04d6?ixid=MnwxMj
 # author
 author: ["Delmo"]
 # categories
-categories: ["PC Build"]
+categories: ["PC Build", "Guide all'acquisto"]
 tags: ["pc" , "build" , "gaming" , "economico" , "xiaomi" , "thermal grizzly" , "amazon"]
 # meta description
 description: "Tutto ciò di cui hai bisogno per assemblare un PC moderno è un cacciavite. Questo è quanto. Ma se vuoi farlo più facilmente o con più sicurezza, ci sono alcuni semplici strumenti che puoi aggiungere al kit per rendere il processo senza intoppi. Una volta selezionati componenti del PC e studiato i passaggi abbastanza semplici da eseguire, sarai pronto per partire."

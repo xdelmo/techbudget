@@ -5,7 +5,7 @@ image: "https://res.cloudinary.com/techbudget-it/image/upload/f_auto,q_auto,w_au
 # author
 author: ["Delmo"]
 # categories
-categories: ["recensione"]
+categories: ["recensioni"]
 tags: ["recensione" , "review", "tastiera meccanica" , "ajazz" , "economico" , "ak33" , "switch" , "zorro" , "black" , "cherry mx" , "gaming"]
 # meta description
 description: "Scrivere ed utilizzare una tastiera meccanica è un'esperienza che tutti almeno una volta nella vita dovrebbero provare. Lo scoglio più grande è solitamente il prezzo ma la Ajazz ha abbattuto tutte le barriere con la AK33"
