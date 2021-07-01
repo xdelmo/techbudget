@@ -7,7 +7,7 @@ author: ["Delmo"]
 # categories
 categories: ["Coding"]
 # tags
-tags: ["first", "coding"]
+tags: ["first" , "coding"]
 # meta description
 description: "Primo post. Interessante, non è vero?"
 # save as non draft

@@ -6,7 +6,7 @@ date: 2021-06-18T15:40:24+06:00
 author: ["Delmo"]
 # categories
 #categories: ["Supporto"]
-tags: ["support, amazon, paypal"]
+tags: ["support", "amazon", "paypal"]
 # meta description
 description: "Ecco come puoi sostenere i miei lavori."
 # save as draft

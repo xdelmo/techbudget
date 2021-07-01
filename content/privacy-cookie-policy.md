@@ -3,7 +3,7 @@ title: "Privacy Cookie Policy"
 date: 2021-06-09T17:23:04+02:00
 author: ["Delmo"]
 # tags
-tags: ["cookies, privacy"]
+tags: ["cookies", "privacy"]
 # meta description
 description: "Informativa generale sui cookie"
 draft: false

@@ -6,7 +6,7 @@ image: "https://images.unsplash.com/photo-1551640179-9e39f8055291?ixid=MnwxMjA3f
 author: ["Delmo"]
 # categories
 categories: ["PC Build"]
-tags: ["pc, build, gaming, economico, amd, asrock, hyperx, crucial, corsair, antec, kingston"]
+tags: ["pc" , "build" , "gaming" , "economico" , "amd" , "asrock" , "hyperx" , "crucial" , "corsair" , "antec" , "kingston"]
 # meta description
 description: "Il mercato dell'elettronica negli ultimi due anni è impazzito, soprattutto per quanto riguarda i costi spropositati delle schede grafiche che hanno moltiplicato il loro valore sia nel mercato del nuovo che nell'usato."
 # save as draft

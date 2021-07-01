@@ -6,7 +6,7 @@ image: ""
 author: ["Delmo"]
 # categories
 categories: ["PC Build"]
-tags: ["pc, build, gaming, economico, amd, asrock, hyperx, crucial, corsair, antec, kingston"]
+tags: ["pc", "build", "gaming", "economico"]
 # meta description
 description: ""
 # save as draft
@@ -25,6 +25,9 @@ draft: true
 | Dissipatore CPU    | AMD Near-Silent               | *0 Euro* |
 
 #### Logitech G203 LIGHTSYNC
+
+<!-- Da aggiungere alle foto di cloudinary
+f_auto,q_auto,w_auto/ -->
 
 ![Logitech G203 LIGHTSYNC](https://images-na.ssl-images-amazon.com/images/I/61UxfXTUyvL._AC_SL1500_.jpg)
 

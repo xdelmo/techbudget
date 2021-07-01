@@ -7,7 +7,7 @@ image:  "https://res.cloudinary.com/techbudget-it/image/upload/v1623249321/Thumb
 author:  ["Delmo"]
 # categories
 categories:  ["Guida all'acquisto"]
-tags:  ["smartphone, android, iphone, guida"]
+tags:  ["smartphone" , "android" , "iphone" , "guida"]
 # meta description
 description:  "In questi anni di passione verso l’informatica e tutto ciò che possiede diodi, resistori e condensatori ne ho cambiati di smartphone.
 Ricordo come fosse ieri il mio primo cellulare: uno di quei vecchi Panasonic pesanti quanto un fardello di acqua.

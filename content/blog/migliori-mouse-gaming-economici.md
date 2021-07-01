@@ -6,7 +6,7 @@ image: "https://images.unsplash.com/photo-1613141412501-9012977f1969?ixid=MnwxMj
 author: ["Delmo"]
 # categories
 categories: ["Guida all'acquisto"]
-tags: ["mouse, gaming, economico, steelseries, razer, cooler master"]
+tags: ["mouse" , "gaming" , "economico" , "steelseries" , "razer" , "cooler master"]
 # meta description
 description: "Da quando ho cominciato a giocare gli FPS su PC, non riesco più a farlo su console. E forse dovresti iniziare ad utilizzare il mouse anche te."
 # save as draft

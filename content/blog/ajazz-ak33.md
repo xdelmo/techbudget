@@ -1,14 +1,14 @@
 ---
 title: "Recensione Ajazz AK33: la miglior tastiera super economica?"
 date: 2021-06-27T11:04:28+02:00
-image: "https://res.cloudinary.com/techbudget-it/image/upload/v1624879161/Ajazz%20AK33/Ajazz_AK33.jpg"
+image: "https://res.cloudinary.com/techbudget-it/image/upload/f_auto,q_auto,w_auto/v1624879161/Ajazz%20AK33/Ajazz_AK33.jpg"
 # author
 author: ["Delmo"]
 # categories
-categories: ["Recensione"]
-tags: ["recensione, review, tastiera meccanica, ajazz, economico, ak33, switch, zorro black, cherry mx, gaming"]
+categories: ["recensione"]
+tags: ["recensione" , "review", "tastiera meccanica" , "ajazz" , "economico" , "ak33" , "switch" , "zorro" , "black" , "cherry mx" , "gaming"]
 # meta description
-description: "Scrivere ed utilizzare una tastiera meccanica è un'esperienza che tutti almeno una volta nella vita dovrebbero67 provare. Lo scoglio più grande è solitamente il prezzo ma la Ajazz ha abbattuto tutte le barriere con la AK33"
+description: "Scrivere ed utilizzare una tastiera meccanica è un'esperienza che tutti almeno una volta nella vita dovrebbero provare. Lo scoglio più grande è solitamente il prezzo ma la Ajazz ha abbattuto tutte le barriere con la AK33"
 # save as draft
 draft: false
 ---
@@ -31,13 +31,13 @@ Scopriamolo nella recensione completa!
 
 #### Confezione
 
-![Ajazz_AK33_confezione](https://res.cloudinary.com/techbudget-it/image/upload/v1624879157/Ajazz%20AK33/Ajazz_AK33_confezione.jpg)
+![Ajazz_AK33_confezione](https://res.cloudinary.com/techbudget-it/image/upload/f_auto,q_auto,w_auto/v1624879157/Ajazz%20AK33/Ajazz_AK33_confezione.jpg)
 
 Il pacco che mi è stato recapitato conteneva una **scatola dal design minimale**, in cartone di un marroncino chiaro. Oltre alla tastiera protetta da uno strato di foam, è presente un **cavo USB-A/Mini-USB** (estremità che va inserita nella tastiera), un piccolo **pennellino** arancione per mantenere pulita la tastiera, un **estrattore** interamente di plastica e un po' di manualistica e foglietti vari compresa garanzia del costruttore.
 
 #### Costruzione e comodità
 
-![Ajazz_AK33_profilo](https://res.cloudinary.com/techbudget-it/image/upload/v1624879157/Ajazz%20AK33/Ajazz_AK33_profilo.jpg)
+![Ajazz_AK33_profilo](https://res.cloudinary.com/techbudget-it/image/upload/f_auto,q_auto,w_auto/v1624879157/Ajazz%20AK33/Ajazz_AK33_profilo.jpg)
 
 Visivamente la **tastiera è proprio come si vede in tutte le foto online**, la mia non ha difetti visivi e non ho notato nessuno tipo di graffio o imperfezione sulla scocca esterna. La tastiera è abbastanza **leggera** anche se **molto robusta**: facendo forza **non flette** e non fa rumoracci, la parte inferiore è composta da un unico pezzo di plastica nera lucente che attira molte ditate, ha inoltre 4 gommini antiscivolo sugli angoli e dei **piedini** che possono essere aperti per **inclinare maggiormante la tastiera**. La solidità è dovuta soprattutto ad una **piastra in alluminio** interposta tra la parte superiore e la scheda madre dell'AK33.
 
@@ -45,7 +45,7 @@ Ho utilizzato questa tastiera sia per **scrivere** questa recensione sia per qua
 
 ##### Switch e Stabilizzatori
 
-![Ajazz_AK33_switch](https://res.cloudinary.com/techbudget-it/image/upload/v1624879157/Ajazz%20AK33/Ajazz_AK33_switch.jpg)
+![Ajazz_AK33_switch](https://res.cloudinary.com/techbudget-it/image/upload/f_auto,q_auto,w_auto/v1624879157/Ajazz%20AK33/Ajazz_AK33_switch.jpg)
 
 Gli **switch** della mia versione sono dei **Zorro Black simil Cherry MX** non hotswappable. Cercando su internet non se ne sa molto quindi presumo sia un prodotto dell'Ajazz stessa, mentre gli stabilizzatori sono del **tipo Cherry**.
 
@@ -61,7 +61,7 @@ Con queste premesse non immagino quanto possa disturbare scrivere o giocare sull
 
 ##### Keycaps
 
-![Ajazz_AK33_keycaps](https://res.cloudinary.com/techbudget-it/image/upload/v1624879157/Ajazz%20AK33/Ajazz_AK33_keycaps.jpg)
+![Ajazz_AK33_keycaps](https://res.cloudinary.com/techbudget-it/image/upload/f_auto,q_auto,w_auto/v1624879157/Ajazz%20AK33/Ajazz_AK33_keycaps.jpg)
 
 Appunto da fare sono i **keycaps che sono in ABS** e che hanno le leggende in prima funzione trasparenti in modo che la luce attraversi il tasto. Purtroppo se si vuole cambiare il set completo sarà un'arda impresa infatti molti dei tasti funzione sono di **dimensioni non standard** (come anche le frecce direzionali).
 Magari un'opzione sarebbe mantenere questi non standard e cambiare il resto dei tasti con dei keycaps di qualità superiore in [PBT double-shot a sublimazione](https://amzn.to/3x5oo7K).
