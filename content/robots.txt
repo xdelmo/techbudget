@@ -1,1 +1,5 @@
-Sitemap: https://www.techbudget.it/sitemap.xml
+User-Agent: *
+Disallow: /https://www.techbudget.it/tags
+Disallow: /https://www.techbudget.it/author
+
+Sitemap: https://www.techbudget.it/sitemap.xml 
