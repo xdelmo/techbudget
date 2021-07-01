@@ -23,5 +23,5 @@ Però se c'è qualcuno che vuole comunque **supportare il lavoro** che faccio, v
 <!-- Ringrazio, infine, le aziende che hanno deciso di collaborare e supportare questo progetto con licenze software o strumenti utili. -->
 
 <!-- AGGIUNGERE UN LINK UTILE PER IO LINK PAYPAL -->
-| [![Supportami su Amazon](https://res.cloudinary.com/techbudget-it/image/upload/v1624196759/Banner/BannerAmazon_fkkr98.png)](https://amzn.to/3gHjkk7) | [![Supportami su Paypal](https://res.cloudinary.com/techbudget-it/image/upload/v1624196758/Banner/BannerPaypal_pw7wma.png)](https://amzn.to/3gHjkk7) |
+| [![Supportami su Amazon](https://res.cloudinary.com/techbudget-it/image/upload/v1624196759/Banner/BannerAmazon_fkkr98.png)](https://amzn.to/3gHjkk7) | [![Supportami su Paypal](https://res.cloudinary.com/techbudget-it/image/upload/v1624196758/Banner/BannerPaypal_pw7wma.png)](https://www.paypal.me/emanueledelmo) |
 |------|--------|
