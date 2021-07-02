@@ -6,7 +6,7 @@ image:  "https://images.unsplash.com/photo-1614925379183-3ce5e634a612?ixid=MnwxM
 author:  ["Delmo"]
 # categories
 categories:  ["Guide all'acquisto"]
-tags:  ["console" , "nintendo" , "switch" , "videogiochi" , "metacritic" , "howlongtobeat" , "tbi"]
+tags:  ["console" , "nintendo switch" , "videogiochi" , "metacritic" , "howlongtobeat" , "tbi"]
 # meta description
 description:  "Tutti noi abbiamo avuto un Gameboy durante la scoperta e crescita videoludica e la Switch è la giusta evoluzione ma sapete come scegliere un titolo da giocare? Ve lo spiego io!"
 # save as draft
