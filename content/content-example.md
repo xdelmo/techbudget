@@ -13,7 +13,7 @@ description: ""
 draft: true
 ---
 
-##### ---Tutto ciò di cui hai bisogno per assemblare un PC moderno è un cacciavite. Questo è quanto. Ma se vuoi farlo più facilmente o con più sicurezza, ci sono alcuni semplici strumenti che puoi aggiungere al kit per rendere il processo senza intoppi.
+##### --- Tutto ciò di cui hai bisogno per assemblare un PC moderno è un cacciavite. Questo è quanto. Ma se vuoi farlo più facilmente o con più sicurezza, ci sono alcuni semplici strumenti che puoi aggiungere al kit per rendere il processo senza intoppi.
 
 ### Strumenti per una PC Build : Gli Essenziali
 

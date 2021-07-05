@@ -6,7 +6,10 @@ description: "Non sono una persona molto interessante ma quello che faccio, lo f
 draft: false
 ---
 
-Non ho molto da dire.
+<blockquote class="wp-block-quote">
+<p>Work in Progress.
+</p>
+</blockquote>
 
 ***
 
