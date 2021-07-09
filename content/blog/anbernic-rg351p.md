@@ -50,7 +50,7 @@ Praticamente l'unica cosa che **manca è un caricatore da parete** (nel manuale 
 Visivamente sembra un **incrocio tra un Gameboy Advance e una Switch Lite** data la forma rettangolare e smussata sui lati.
 L'RG351P misura circa 7,1 x 15 x 1,7 cm e sul retro possiede due pad gommati sul retro. È disponibile nelle versioni nera, bianca o viola (ispirata al Game Boy Advance originale).
 
-Il centro dell'RG351P è dominato da un **LCD IPS da 3,5 pollici con una risoluzione di 480 x 320**, non molto alta ma comunque non è un problema per i giochi che il sistema dovrebbe emulare. Le proporzioni **3:2** sono un po' scomode rispetto alle più generali proporzioni 4:3 il che si traduce in giochi 4:3 leggermente colonnati. I giochi hanno ancora un bell'aspetto, anche con bande nere che si fondono con la cornice dello schermo nero (purtroppo la mia unità soffre di un leggere [lightbleeding sul lato sinistro](https://res.cloudinary.com/techbudget-it/image/upload/v1625676784/Anbernic%20RG351P/Anbernic_RG351P_Lightbleeding.jpg)). Le proporzioni dello schermo sono in realtà un vantaggio per i giochi 3:2 di Game Boy Advance, che si adattano perfettamente allo schermo dell'RG351P.
+Il centro dell'RG351P è dominato da un **LCD IPS da 3,5 pollici con una risoluzione di 480 x 320**, non molto alta ma comunque non è un problema per i giochi che il sistema dovrebbe emulare. Le proporzioni **3:2** sono un po' scomode rispetto alle più generali proporzioni 4:3 il che si traduce in giochi 4:3 leggermente colonnati. I giochi hanno ancora un bell'aspetto, anche con bande nere che si fondono con la cornice dello schermo nero (purtroppo la mia unità soffre di un leggero [lightbleeding sul lato sinistro](https://res.cloudinary.com/techbudget-it/image/upload/v1625676784/Anbernic%20RG351P/Anbernic_RG351P_Lightbleeding.jpg)). Le proporzioni dello schermo sono in realtà un vantaggio per i giochi 3:2 di Game Boy Advance, che si adattano perfettamente allo schermo dell'RG351P.
 
 Indipendentemente dalla risoluzione e dalle proporzioni, lo **schermo è luminoso e colorato e facile da vedere** nella maggior parte delle condizioni di illuminazione.
 
@@ -81,7 +81,7 @@ Se siete alle prime armi vi consiglio la **guida** di [RetroGameCorps](https://r
 I giochi **PlayStation 1 funzionano bene**. Non ho avuto problemi a giocare a Spyro o Crash Bandicoot, con una grafica 3D sempre fluida e un audio stabile.
 
 Purtroppo i giochi per **Nintendo 64 sono tutta un'altra storia**.
-Donkey Kong 64 ha iniziato a perdere frame già dall'intro del gioco e la musica e gli effetti sonori hanno iniziato a balbettare. Super Mario 64 gira abbastanza bene anche se con qualche glitch grafico, ma giochi impegnativi come DK64 spingono davvero il sistema ai suoi limiti. L'N64 è un **punto debol**e dell'RG351P (**come lo sono Dreamcast e PlayStation Portable PSP**, anche se è interessante come comunque riesca a avviare ed emulare MALE queste console).
+Donkey Kong 64 ha iniziato a perdere frame già dall'intro del gioco e la musica e gli effetti sonori hanno iniziato a balbettare. Super Mario 64 gira abbastanza bene anche se con qualche glitch grafico, ma giochi impegnativi come DK64 spingono davvero il sistema ai suoi limiti. L'N64 è un **punto debole** dell'RG351P (**come lo sono Dreamcast e PlayStation Portable PSP**, anche se è interessante come comunque riesca a avviare ed emulare MALE queste console).
 
 C'è da dire però che l'RG351P ha una **durata della batteria notevole** infatti è possibile videogiocare **circa sei ore** prima di doverlo ricaricare. Naturalmente, i giochi più impegnativi scaricheranno la batteria più velocemente.
 
@@ -96,7 +96,7 @@ ___
 
 ### In Conclusione
 
---- L'**Anbernic RG351P** è una console portatile da gioco retro potente e accessibile per giochi classici 2D e per PlayStation 1. Il sistema **funziona bene e la sua qualità costruttiva è paragonabile a quella delle portatili Nintendo.** <br>
+--- L'**Anbernic RG351P** è una retroconsole portatile da potente e accessibile per giochi classici 2D e PlayStation 1. Il sistema **funziona bene e la sua qualità costruttiva è paragonabile a quella delle portatili Nintendo.** <br>
 È un **peccato** che **non sia eccezionale nel gestire i giochi N64**, ma per il resto è un gioiellino fantastico che **può farvi provare esperienze che forse avete dimenticato diventando adulti.**  
 
 Se non siete ancora abbonati ad Amazon Prime potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
