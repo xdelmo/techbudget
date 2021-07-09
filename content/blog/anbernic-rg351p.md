@@ -96,7 +96,7 @@ ___
 
 ### In Conclusione
 
---- L'**Anbernic RG351P** è una retroconsole portatile da potente e accessibile per giochi classici 2D e PlayStation 1. Il sistema **funziona bene e la sua qualità costruttiva è paragonabile a quella delle portatili Nintendo.** <br>
+--- L'**Anbernic RG351P** è una retroconsole portatile potente e accessibile per giochi classici 2D e PlayStation 1. Il sistema **funziona bene e la sua qualità costruttiva è paragonabile a quella delle portatili Nintendo.** <br>
 È un **peccato** che **non sia eccezionale nel gestire i giochi N64**, ma per il resto è un gioiellino fantastico che **può farvi provare esperienze che forse avete dimenticato diventando adulti.**  
 
 Se non siete ancora abbonati ad Amazon Prime potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
