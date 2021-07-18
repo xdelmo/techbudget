@@ -17,12 +17,13 @@ draft: true
 
 ### Strumenti per una PC Build : Gli Essenziali
 
-
 |           Tipo di Componente          |                       Componente                       |                    Costo                   |
 |:-------------------------:|:----------------------------------------------------:|:---------------------------------------------------:|
 | Scheda Grafica      | Vega 3 | *0 Euro*                          |
 | Processore | [AMD Athlon 3000G](https://amzn.to/2UxVFdt)        | *120 Euro*             |
 | Dissipatore CPU    | AMD Near-Silent               | *0 Euro* |
+
+_Tutti i prodotti descritti potrebbero subire variazioni di prezzo e disponibilità nel corso del tempo, dunque vi consigliamo sempre di verificare questi parametri prima dell’acquisto._
 
 #### Logitech G203 LIGHTSYNC
 
@@ -32,6 +33,8 @@ f_auto,q_auto,w_auto/ -->
 ![Logitech G203 LIGHTSYNC](https://images-na.ssl-images-amazon.com/images/I/61UxfXTUyvL._AC_SL1500_.jpg)
 
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3dfMFA9">Compra qui</a></div>
+
+**[Correlati: I Migliori Giochi per Nintendo Switch](https://techbudget.it/blog/migliori-giochi-switch/)**
 
 ___
 
