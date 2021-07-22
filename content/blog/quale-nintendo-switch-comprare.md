@@ -6,7 +6,7 @@ image: "https://images.unsplash.com/photo-1615680022647-99c397cbcaea?ixlib=rb-1.
 author: ["Delmo"]
 # categories
 categories:  ["Guide all'acquisto"]
-tags:  ["console" , "nintendo switch" , "videogiochi" , "nintendo" , "oled" , "nintendo switch pro" , "nintendo switch lite"]
+tags:  ["console" , "nintendo switch" , "videogiochi" , "nintendo" , "oled" , "nintendo switch pro" , "nintendo switch lite" , "nintendo switch oled"]
 # meta description
 description: "Quindi avete visto che Nintendo ha appena annunciato il nuovo modello Switch OLED e state pensando seriamente di fare il grande passo e comprarne una, anche perchè è l'unica console disponibile sul mercato con Xbox Serie X e Playstation 5 che ancora faticano con la domanda degli appassionati."
 # save as draft
@@ -15,13 +15,11 @@ draft: false
 
 ##### --- Quindi avete visto che Nintendo ha appena annunciato il nuovo modello Switch OLED e state pensando seriamente di fare il grande passo e comprarne una, anche perchè è l'unica console disponibile sul mercato con Xbox Serie X e Playstation 5 che ancora faticano con la domanda degli appassionati.
 
-**SIA CHIARO**: la Switch **non è in alcun modo una console di seconda scelta** ma piuttosto una console "diversa" dalle altre che fa come suo punto di forza la portabilità e con l'aggiunta della nuovissima versione OLED, è **ora il momento migliore di acquistarla**.
+**SIA CHIARO**: la Switch **non è in alcun modo una console di seconda scelta** ma piuttosto una console "complementare" alle altre che fa come suo punto di forza la portabilità e con l'aggiunta della nuovissima versione OLED, è **ora il momento migliore per acquistarla**.
 
 **[Correlati: I Migliori Giochi per Nintendo Switch](https://techbudget.it/blog/migliori-giochi-switch/)**
 
-La c**onsole più versatile di sempre** regala oramai da 4 anni delle esperienze di gioco ricche di divertimento e decine e decine di titoli per tutti i gusti.
-
-_Ho scritto questa guida per aiutarvi a capire quale sia il modello più adatto a voi._
+La **console più versatile di sempre** regala oramai da 4 anni delle esperienze di gioco ricche di divertimento e centinaia di titoli per tutti i gusti.
 
 ### Quale Nintendo Switch Scegliere: I Modelli
 
@@ -33,13 +31,13 @@ _Ho scritto questa guida per aiutarvi a capire quale sia il modello più adatto 
 | [Nintendo Switch Ed. 2019](https://amzn.to/3xOzMVY)        | *320 Euro*             |
 | [Nintendo Switch Lite](https://amzn.to/3z7T9JS)               | *220 Euro* |
 
-_Tutti i prodotti descritti potrebbero subire variazioni di prezzo e disponibilità nel corso del tempo, dunque vi consigliamo sempre di verificare questi parametri prima dell’acquisto._
+_Tutti i prodotti descritti potrebbero subire variazioni di prezzo e disponibilità nel corso del tempo, dunque vi consiglio sempre di verificare questi parametri prima dell’acquisto._
 
 #### Cos'è Nintendo Switch?
 
-La console dell'azienda nipponica va pensata come una **console ibrida**, infatti può essere utilizzata sia come console casalinga sia in portatile da usare dove volete: treno, sala, in bagno...
+La console dell'azienda nipponica va pensata come una **console ibrida**, infatti **può essere utilizzata** sia come console casalinga sia in portatile da usare **dove volete**: treno, sala, **in bagno**...
 
-Viene fornita con due controller (sinistro e destro) chiamati "Joy-Con che scorrono su e giù nel corpo principale della console, sono forniti inoltre di due laccetti da polso (per evitare che volino dalle mani o dalla finestra). Presente anche un'impugnatura alternativa che unisce i due Joy-Con che li trasforma in un controller unico più robusto e simile a quello delle varie console casalinghe.
+Viene **fornita con due controller** (sinistro e destro) chiamati "Joy-Con" che scorrono su e giù nel corpo principale della console, sono forniti inoltre di due laccetti da polso (per evitare che volino dalle mani o dalla finestra). Presente **anche un'impugnatura alternativa che unisce i due Joy-Con** che li trasforma in un controller unico più robusto e simile a quello delle varie console casalinghe.
 
 **Nella confezione** ci sarà anche una **dock e i cavi necessari per** configurare la Switch come home console e **collegarla alla TV** (un cavo HDMI e il caricabatterie).
 
@@ -47,7 +45,7 @@ Viene fornita con due controller (sinistro e destro) chiamati "Joy-Con che scorr
 
 Per i giochi in mobilità, **la durata della batteria** dipenderà da quale titolo si gioca: Nintendo **stima 5 ore e mezza** per [The Legend of Zelda: Breath of the Wild](https://amzn.to/3zkPTf4), ma personalmente più di 5 non ne ho mai fatte. Mentre per un gioco 2D allora la stima è piuttosto corretta.
 
-I controller Joy-Con sinistro e destro possono anche essere staccati e usati indipendentemente per alcuni giochi come Mario Party e Mario Kart 8 Deluxe, in modo tale che due o più persone possano sfidarsi l'una contro l'altra.
+I controller **Joy-Con** sinistro e destro **possono anche essere staccati e usati indipendentemente** per alcuni giochi come Mario Party e Mario Kart 8 Deluxe, in modo tale che due o più persone possano sfidarsi l'una contro l'altra.
 
 Se volete **giocare con più di due giocatori, dovrete acquistare dei nuovi controller**. Io **consiglio** sempre i prodotti della 8Bitdo come l'[**SN30 Pro Plus**](https://amzn.to/36IFhJN).
 
@@ -61,7 +59,7 @@ Nintendo non ha mai risposto alle domande e leak incessanti che hanno riguardato
 
 La **risoluzione dello schermo è rimasta invariata 1280x720** (ancora HD) e sinceramente questo mi ha fatto storcere un po' il naso perchè già sullo schermo della Switch "originale" la definizione delle immagini è piuttosto scarsa, aumentare la diagonale del pannello non fa altro che peggiorare la situazione. Non immagino pensare come possa vedersi male [Xenoblade Chronicles 2](https://nintendoeverything.com/xenoblade-chronicles-2-tech-analysis/) sul nuovo modello.
 
-Inoltre il **modello OLED sarà più costoso arrivando a toccare i 350 Euro**. Bisognerà aspettare l'**8 Ottobre** per provare con mano la qualità di questo upgrade.
+Inoltre il **modello OLED sarà più costoso arrivando a toccare i 350 Euro**. **Bisognerà aspettare l'uscita l'8 Ottobre** per provare con mano la qualità di questo upgrade.
 
 <center>
     <img src="https://assets.nintendo.com/image/upload/c_pad,f_auto,q_auto,w_768/ncom/en_US/switch/site-design-update/photo01?v=2021071908" alt="switch oled" />
@@ -141,7 +139,7 @@ ___
 
 Sono queste le motivazioni per cui scegliere un modello di Nintendo Switch rispetto ad un altro. Posso assicurarvi però che qualsiasi modello sceglierete, avrete una console adatta per ogni tipo di giocatore e che vi accompagnerà per tantissime ore di gioco.
 
-Se non siete ancora abbonati ad Amazon Prime potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
+Se non siete ancora abbonati ad **Amazon Prime** potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 
