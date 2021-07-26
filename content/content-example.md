@@ -23,7 +23,7 @@ draft: true
 | Processore | [AMD Athlon 3000G](https://amzn.to/2UxVFdt)        | *120 Euro*             |
 | Dissipatore CPU    | AMD Near-Silent               | *0 Euro* |
 
-_Tutti i prodotti descritti potrebbero subire variazioni di prezzo e disponibilità nel corso del tempo, dunque vi consigliamo sempre di verificare questi parametri prima dell’acquisto._
+_Tutti i prodotti descritti potrebbero subire variazioni di prezzo e disponibilità nel corso del tempo, dunque ti consiglio sempre di verificare questi parametri prima dell’acquisto._
 
 #### Logitech G203 LIGHTSYNC
 
@@ -42,8 +42,8 @@ ___
 
 Questi sono per me i giochi per Nintendo Switch che ha più **senso comprare** per avere un buon rapporto longevità/prezzo.
 
-Se non siete ancora abbonati ad **Amazon Prime** potete provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
+Se non sei ancora abbonati ad **Amazon Prime** puoi provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 
-*Fatemi sapere sotto nei commenti la vostra opinione a riguardo!*
+*Fammi sapere sotto nei commenti la tua opinione a riguardo!*
