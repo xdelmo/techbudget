@@ -113,7 +113,7 @@ title = "About Me"
 content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni consigliandovi i migliori prodotti per qualità/prezzo."
 address = "Latina, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
-copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
+copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com) <br> Images by [Unsplash](https://unsplash.com/) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
 
 ############################# social site ########################
 [params.social]
