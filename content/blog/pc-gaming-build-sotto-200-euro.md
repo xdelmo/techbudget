@@ -1,7 +1,7 @@
 ---
-title: "PC Gaming Build Sotto i 200 Euro"
+title: "Build PC Gaming Sotto i 200 Euro: Optiplex + GPU"
 date: 2021-08-08T16:51:41+02:00
-image: "https://res.cloudinary.com/techbudget-it/image/upload/v1628439582/Copertine%20Articoli/pc_gaming_build_200.png"
+image: "https://i.dell.com/sites/csimages/Video_Imagery/all/optiplex-tsff-thumbnail.png"
 # author
 author: ["Delmo"]
 # categories
@@ -18,8 +18,6 @@ draft: false
 <h4>Cosa è un Optiplex</h4>
 
 I desktop [Dell OptiPlex](https://www.dell.com/it-it/work/shop/desktop-e-workstation/sf/optiplex-desktops) sono una linea di **computer desktop aziendali** progettati per un flusso di lavoro comodo e ininterrotto. Sono **facili da gestire e con un basso costo complessivo di manutenzione**. Sono ideali per le piccole aziende e per posti di lavoro fissi.
-
-![Optiplex](https://i.dell.com/sites/csimages/Video_Imagery/all/optiplex-tsff-thumbnail.png)
 
 Essendo venduti in larga scala alle varie imprese, quando queste ultime aggiornano il settore informatico tutti questi computer vengono introdotti in **grandi quantità nel mercato dell'usato**. Questa è un'occasione che non può non essere presa in considerazione quando si vuole risparmiare su un pc desktop da gaming: infatti **sarà necessario solamente aggiungere una scheda grafica** per ottenere un pc di buona fattura e con buone performance.
 <!-- 
