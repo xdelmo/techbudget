@@ -86,7 +86,7 @@ image = "https://res.cloudinary.com/techbudget-it/image/upload/v1623102322/welco
 
 # blog
 [params.blog]
-heading = "Basta pagare prodotti sovrapprezzati."
+heading = "Ti consiglio i migliori prodotti tecnologici economici."
 
 # call to action
 [params.call_to_action]
