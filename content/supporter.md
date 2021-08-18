@@ -8,7 +8,7 @@ author: ["Delmo"]
 #categories: ["Supporto"]
 tags: ["support", "amazon", "paypal"]
 # meta description
-description: "Ecco come puoi sostenere i miei lavori."
+description: "Ecco come puoi sostenere i miei contenuti."
 # save as draft
 draft: false
 --- 
