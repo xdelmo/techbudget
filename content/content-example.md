@@ -42,7 +42,7 @@ ___
 
 Questi sono per me i giochi per Nintendo Switch che ha più **senso comprare** per avere un buon rapporto longevità/prezzo.
 
-Se non sei ancora abbonati ad **Amazon Prime** puoi provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
+Se non sei ancora abbonato ad **Amazon Prime** puoi provarlo **GRATIS per 30 giorni** tramite questo link ed aiutarmi nel mantenere up il sito:
 
 - **[Prova GRATIS Amazon Prime](https://amzn.to/3zrJKOm)**
 
