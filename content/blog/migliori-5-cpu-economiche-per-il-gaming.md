@@ -10,7 +10,7 @@ tags: ["pc", "build", "gaming", "economico", "CPU" , "amd", "ryzen" , "intel" , 
 # meta description
 description: ""
 # save as draft
-draft: false
+draft: true
 ---
 
 ##### --- 
