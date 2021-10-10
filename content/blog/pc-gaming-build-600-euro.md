@@ -33,7 +33,7 @@ _la star di questa build è senza dubbio l'**AMD Ryzen 5 5600G** che attualmente
 | Scheda Madre | [MSI B450 Tomahawk MAX II](https://amzn.to/3ArtdJy)              |
 | RAM | [Crucial Ballistix (2 x 8GB) 3600MHz](https://amzn.to/3BtvapX)        |
 | SSD | [Kingston A2000 500GB](https://amzn.to/3FAJsI3)        |
-| Alimentatore | [Cooler Master MWE 700 White 230V V2](https://amzn.to/3jkXFjJ)        |
+| Alimentatore | [Cooler Master MWE 700 White 230V V2](https://amzn.to/3FwtWg5)        |
 | Case | [Fractal Design Focus G](https://amzn.to/2T3azI5)        |
 
 _Tutti i prodotti descritti potrebbero subire variazioni di prezzo e disponibilità nel corso del tempo, dunque ti consiglio sempre di verificare questi parametri prima dell’acquisto._
@@ -119,7 +119,7 @@ Il Kingston A2000 combina grandi prestazioni con un ottimo prezzo.
 
 #### Alimentatore: Cooler Master MWE 700 White 230V V2
 
-[![Cooler Master Alimentatore MWE 700 White 230V V2 (fonte: Cooler Master)](https://cdn.coolermaster.com/media/assets/1059/2-700w-380x380-hover.png)](https://amzn.to/3jkXFjJ)
+[![Cooler Master Alimentatore MWE 700 White 230V V2 (fonte: Cooler Master)](https://cdn.coolermaster.com/media/assets/1059/2-700w-380x380-hover.png)](https://amzn.to/3FwtWg5)
 
 Se c'è un componente su cui NON poter risparmiare è l'alimentatore. Gli economici possono letteralmente bruciare il resto della vostra build quindi vi consiglio questo Cooler Master.
 
@@ -130,7 +130,7 @@ Se c'è un componente su cui NON poter risparmiare è l'alimentatore. Gli econom
 - Modulare: Non Modulare
 - PCIe: 6+2 Pin x4
 
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3jkXFjJ">Compra qui</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3FwtWg5">Compra qui</a></div>
 
 #### Case: Fractal Design Focus G
 
