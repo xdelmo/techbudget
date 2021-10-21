@@ -90,7 +90,7 @@ Una scheda madre di livello per chi vuole assemblare una build con una APU Ryzen
 
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://amzn.to/3ArtdJy">Compra qui</a></div>
 
-#### RAM: Crucial Ballistix (2 x 8GB) 3600MHz (2 x 8GB) 3600MHz
+#### RAM: Crucial Ballistix (2 x 8GB) 3600MHz
 
 [![Crucial Ballistix (2 x 8GB) 3600MHz (fonte: Crucial)](https://content.crucial.com/content/dam/crucial/dram-products/ballistix-udimm/images/product/crucial-ballistix-black-2x-kit-image.psd.transform/medium-png/image.png)](https://amzn.to/3BtvapX)
 

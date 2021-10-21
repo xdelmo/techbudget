@@ -31,6 +31,6 @@ _Mi avvicino ai 30 anni. Cerco il silenzio assoluto, sono solitario e quando pos
 
 - E [**Berkay Çubuk**](https://berkaycubuk.com/) perchè è grazie a lui e al suo **tutorial da incorniciare** se questo sito può essere definito tale (non potete immaginare quanti problemi abbia avuto nel metterlo online).
 
-~~Vorrei ringraziare anche il mio **professore universitario** di Linguaggi Web ma da lui non ho imparato nulla se non creare siti con un layout dei primi 90' come [questo](https://redstapler.co/wp-content/uploads/2019/07/evolution-of-web-design-6.jpg).~~
+~~Vorrei ringraziare anche il mio **professore universitario** di Linguaggi Web ma da lui non ho imparato nulla se non creare siti con un layout dei primi 90' come [questo](https://res.cloudinary.com/techbudget-it/image/upload/v1634835452/oldwebsite.jpg).~~
 
 *E se stai ancora leggendo ringrazio **te** che stai dedicando il tuo tempo prezioso su un blog di uno qualunque 💗*
