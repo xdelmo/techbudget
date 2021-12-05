@@ -124,7 +124,8 @@ instagram = "https://instagram.com/techbudget.it"
 email = "techbudget@techie.com"
 # linkedin = "#"
 
+############################# aggiunto io perchè ho cancellato il file sitemap e non so come ripristinarlo ########################
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
-  priority = 0.5
+#  priority = 0.5
