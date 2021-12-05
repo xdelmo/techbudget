@@ -123,3 +123,8 @@ copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefi
 instagram = "https://instagram.com/techbudget.it"
 email = "techbudget@techie.com"
 # linkedin = "#"
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
