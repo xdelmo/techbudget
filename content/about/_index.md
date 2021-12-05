@@ -7,7 +7,7 @@ image: ""
 draft: false
 ---
 <center>
-    <img src="https://res.cloudinary.com/techbudget-it/image/upload/v1627829302/8biticon_circle_cropped.png" alt="avatar" />
+    <img src="https://res.cloudinary.com/techbudget-it/image/upload/v1638727835/profile-pic.png" alt="avatar" />
 </center>
 
 Ciao! Sono **Emanuele** (per gli amici [Delmo](https://www.instagram.com/imxdelmo)), **mi interesso e studio informatica** nel tempo libero e non.<br>
