@@ -7,19 +7,19 @@ image: ""
 draft: false
 ---
 <center>
-    <img src="https://res.cloudinary.com/techbudget-it/image/upload/v1638727835/profile-pic.png" alt="avatar" />
+    <img src="https://res.cloudinary.com/techbudget-it/image/upload/c_scale,w_350/v1638727835/profile-pic.png" alt="avatar" />
 </center>
 
 Ciao! Sono **Emanuele** (per gli amici [Delmo](https://www.instagram.com/imxdelmo)), **mi interesso e studio informatica** nel tempo libero e non.<br>
 Da sempre curioso di elettronica: da bambino mi divertivo ad aprire vecchi cellulari e walkie talkie perchè mi affascinavano quelle piccole schedine madri che celavano una "magia" a me sconosciuta e che solo con il passare degli anni avrei decifrato.
 
-Quasi Dottore in Ingegneria delle Telecomunicazioni a "La Sapienza" di Roma, ho deciso di mettermi alla prova creando contenuti digitali utili a chi naviga nel vasto oceano della tecnologia (economica, in questo caso) e non ha molta esperienza nel campo.
-Sono stanco di leggere articoli e guardare video dove non si tiene conto dell'usabilità di un prodotto, della sua "future-proof" e del rapporto qualità/prezzo.
-Più volte negli anni, anche io sono stato vittima di scelte poco ponderate e viziate da uno modo scorretto dei content creator di raccontare i prodotti elettronici.
+Quasi **Dottore in Ingegneria dell'Informazione, Informatica e Statistica a “La Sapienza” di Roma**, ho deciso di mettermi alla prova creando **contenuti digitali utili** a chi naviga nel vasto oceano della tecnologia (economica, in questo caso) e **non ha molta esperienza nel campo**.
+Sono stanco di leggere articoli e guardare video dove non si tiene conto dell'usabilità di un prodotto, della sua "future-proof" e del rapporto qualità/prezzo.<br>
+Più volte negli anni, **anche io** sono stato **vittima** di scelte poco ponderate e viziate da uno **modo scorretto** dei content creator **di raccontare i prodotti elettronici**.
 
-Il mio scopo ultimo è infatti "insegnare" il metodo giusto per approcciarsi alla tecnologia, che non consiste nel consigliare a tutti indiscriminatamente il miglior prodotto sul mercato ma quello più coerente alla possibilità e all'utilizzo della persona.<br>
+Il mio scopo è infatti quello di **"insegnare" il metodo giusto per approcciarsi alla tecnologia**, che non consiste nel consigliare a tutti indiscriminatamente il miglior prodotto sul mercato ma quello più **coerente alla possibilità e all'utilizzo della persona**.<br>
 
-Oltre alla passione per l'innovazione, ho sempre avuto anche quella per la musica. Ho suonato la batteria per oltre 10 anni ma ora mi limito a passare interi pomeriggi ad ascoltare EP che hanno segnato la mia [adolescenza](https://www.last.fm/it/user/guren_lelo).
+Oltre alla **passione** per l'innovazione, ho sempre avuto anche quella **per la musica**. Ho suonato la batteria per oltre 10 anni ma ora mi limito a passare interi pomeriggi ad ascoltare EP che hanno segnato la mia [adolescenza](https://www.last.fm/it/user/guren_lelo).
 
 _Mi avvicino ai 30 anni. Cerco il silenzio assoluto, sono solitario e quando posso mi alleno._
 <!--Aggiungere Google Maps con Latina-->
