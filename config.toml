@@ -86,7 +86,7 @@ image = "https://res.cloudinary.com/techbudget-it/image/upload/v1623102322/welco
 
 # blog
 [params.blog]
-heading = "Ti consiglio i migliori prodotti tecnologici economici."
+heading = "Ti consiglio come risparmiare sulla tecnologia."
 
 # call to action
 [params.call_to_action]
@@ -110,7 +110,7 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About Me"
-content = "Appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni consigliandovi i migliori prodotti per qualità/prezzo."
+content = "Ciao! Sono Emanuele e sono un appassionato di informatica da sempre. <br>Ora sento il bisogno di condividere quello che ho imparato (a mie spese) in questi anni consigliandovi i migliori prodotti per qualità/prezzo."
 address = "Latina, Italia"
 hours = "Ogni Mercoledì alle 15 un nuovo appuntamento. <br>Stay tuned."
 copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com) <br> Images by [Unsplash](https://unsplash.com/) <br> Icon by [Prettycons](https://www.flaticon.com/authors/prettycons)"
