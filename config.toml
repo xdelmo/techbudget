@@ -55,11 +55,11 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-
-[[menu.main]]
-name = "♥"
-URL = "supporter"
-weight = 5
+# eliminato link a pagina inutile
+# [[menu.main]]
+# name = "♥"
+# URL = "supporter"
+# weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -82,11 +82,12 @@ expire_days = 2
 # banner
 [params.banner]
 heading = "Il Metodo Giusto Per Approcciarsi Alla Tecnologia"
-image = "https://res.cloudinary.com/techbudget-it/image/upload/v1623102322/welcome.jpg"
+# image = "https://res.cloudinary.com/techbudget-it/image/upload/v1623102322/welcome.jpg"
 
+# eliminato slogan inutile
 # blog
-[params.blog]
-heading = "Ti consiglio come risparmiare sulla tecnologia."
+# [params.blog]
+# heading = "Ti consiglio come risparmiare sulla tecnologia."
 
 # call to action
 [params.call_to_action]
